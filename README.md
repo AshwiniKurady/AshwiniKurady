@@ -38,5 +38,10 @@
 
 - ⚡ Fun fact: 🔍 curiosity > credentials
 
+<a href="https://www.linkedin.com/in/upadhyashwini/" target="_blank">
+  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" width="60" height="60" />
+  Connect with me on LinkedIn
+</a>
+
 </p>
 
