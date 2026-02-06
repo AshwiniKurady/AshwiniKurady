@@ -2,7 +2,7 @@
 <h1>Hi there 👋 I am Ashwini</h1>
 <p >
  <a href="https://www.linkedin.com/in/upadhyashwini/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18" />
+  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" width="20" height="20" />
   Connect with me on LinkedIn
 </a>
 <!--   <a href="https://medium.com/@ashwinikurady" target="_blank">
