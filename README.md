@@ -2,8 +2,9 @@
 <h1>Hi there 👋 I am Ashwini</h1>
 <p >
  <a href="https://www.linkedin.com/in/upadhyashwini/" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" width="60" height="60" />
- </a>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18" />
+  Connect with me on LinkedIn
+</a>
 <!--   <a href="https://medium.com/@ashwinikurady" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium.png" width="60" height="60"/>
  </a> -->
