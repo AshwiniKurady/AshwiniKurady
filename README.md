@@ -1,4 +1,3 @@
-### Hi there  👋
 
 <h1>Hi there 👋 I am Ashwini</h1>
 <p >
