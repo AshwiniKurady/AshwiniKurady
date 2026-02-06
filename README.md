@@ -1,14 +1,9 @@
 
 <h1>Hi there 👋 I am Ashwini</h1>
-<p >
- <a href="https://www.linkedin.com/in/upadhyashwini/" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" width="20" height="20" />
-  Connect with me on LinkedIn
-</a>
-<!--   <a href="https://medium.com/@ashwinikurady" target="_blank">
+<p > 
+ <a href="https://medium.com/@ashwinikurady" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium.png" width="60" height="60"/>
  </a> -->
-<!-- 
   <a href="https://leetcode.com/u/AshwiniK/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60" height="60"/>
  </a> -->
